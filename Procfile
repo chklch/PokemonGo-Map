@@ -1,1 +1,1 @@
-web: python runserver.py -a "$AUTH_SERVICE" -u "$USERNAME" -p "$PASSWORD" -l "$LOCATION" -st $STEP_COUNT -H 0.0.0.0 -P $PORT -k $GMAPS_KEY $EXTRA_ARGS 
+web: python runserver.py -a "ptc:pokemongoredbean:asdffff" -a "ptc:sdch2016:asdffff" -a "ptc:pokemongoredbeam:asdffff" -a "ptc:pokemongoredbeao:asdffff"  -l "$LOCATION" -st $STEP_COUNT -H 0.0.0.0 -P $PORT -k $GMAPS_KEY $EXTRA_ARGS 
